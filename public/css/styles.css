@@ -275,3 +275,12 @@ body {
 .dropdown.user-info a {
     color: #5442c4;
 }
+
+.cart-wrapper {
+    position: absolute;
+    top: 5px;
+    right: 7px;
+    font-size: 20px;
+    margin-left: 10px;
+    color: gray;
+  }

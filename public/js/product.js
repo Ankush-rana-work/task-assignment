@@ -40,6 +40,7 @@ $(document).ready(function () {
                                             <p class="price">$${product.price}</p>
                                         </div>
                                         <a href="${base_url+'/product/'+product.id}"class="buy-btn">Buy Now</a>
+                                        <a href="#" class="cart-wrapper"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a>
                                     </div>
                                 </div>
                             `;
